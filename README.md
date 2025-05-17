@@ -9,7 +9,7 @@
 A comprehensive Python library for designing, analyzing, and visualizing A/B tests and multivariate tests with built-in support for statistical analysis and multi-armed bandit algorithms.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user/py-ab-testing/main/docs/images/ab_testing_diagram.png" alt="A/B Testing Diagram" width="600"/>
+  <img src="https://www.abtasty.com/wp-content/uploads/2022/11/Equal-traffic-allocation.png" alt="A/B Testing Diagram" width="600"/>
 </p>
 
 ## 📋 Table of Contents
