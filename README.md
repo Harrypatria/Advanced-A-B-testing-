@@ -347,10 +347,6 @@ Where:
 - $N$ is the total number of pulls across all arms
 - $n_a$ is the number of times arm $a$ has been pulled
 
-## 📚 Documentation
-
-Full documentation with API reference is available at [https://py-ab-testing.readthedocs.io/](https://py-ab-testing.readthedocs.io/)
-
 ### Key Modules
 
 - `py_ab_testing.ABTest`: Core A/B testing functionality
