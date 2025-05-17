@@ -382,10 +382,10 @@ If you use this library in your research, please cite:
 
 ```
 @software{py_ab_testing,
-  author = {A/B Testing Expert},
-  title = {py-ab-testing: Python Library for A/B Testing and Multivariate Testing},
+  author = {Harry Patria},
+  title = {A/B Testing Experimentation},
   year = {2025},
-  url = {https://github.com/abtest/py-ab-testing},
+  url = {https://github.com/Harrypatria/Advanced-A-B-testing-},
 }
 ```
 
