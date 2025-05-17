@@ -12,6 +12,10 @@ A comprehensive Python library for designing, analyzing, and visualizing A/B tes
   <img src="https://www.abtasty.com/wp-content/uploads/2022/11/Equal-traffic-allocation.png" alt="A/B Testing Diagram" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://www.convertize.com/wp-content/uploads/2020/02/larger-samples-ab-testing-statistics.jpg" alt="A/B Testing Diagram" width="600"/>
+</p>
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
